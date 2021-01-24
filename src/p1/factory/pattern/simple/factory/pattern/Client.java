@@ -1,10 +1,9 @@
-package p1.factory.simple.factory.pattern;
+package p1.factory.pattern.simple.factory.pattern;
 
 import org.w3c.dom.Document;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 
 /**
  * 简单工厂模式

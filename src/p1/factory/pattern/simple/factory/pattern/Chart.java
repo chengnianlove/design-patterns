@@ -1,4 +1,4 @@
-package p1.factory.simple.factory.pattern;
+package p1.factory.pattern.simple.factory.pattern;
 
 /**
  * 图表接口

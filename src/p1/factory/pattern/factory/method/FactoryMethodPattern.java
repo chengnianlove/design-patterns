@@ -1,4 +1,4 @@
-package p1.factory.factory.method;
+package p1.factory.pattern.factory.method;
 
 
 /**
@@ -17,7 +17,7 @@ public class FactoryMethodPattern {
         Logger logger;
         LogFactory logFactory;
 //        logFactory = new FileLoggerFactory();
-        logFactory = (LogFactory) Class.forName("p1.factory.factory.method.FileLoggerFactory").newInstance();
+        logFactory = (LogFactory) Class.forName("p1.factory.pattern.factory.method.FileLoggerFactory").newInstance();
 //        logger = logFactory.createLogger();
 //        logger.writeLog();
         System.out.println("+++++++++++++++++++++++++++++++++++++++++");

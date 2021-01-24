@@ -1,4 +1,4 @@
-package p1.factory.abstractFactory;
+package p1.factory.pattern.abstractFactory;
 
 /**
  * 抽象工厂模式(Abstract Factory Pattern)：

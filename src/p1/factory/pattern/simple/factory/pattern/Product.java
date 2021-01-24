@@ -1,4 +1,4 @@
-package p1.factory.simple.factory.pattern;
+package p1.factory.pattern.simple.factory.pattern;
 
 /**
  * @author create by Niancheng On 2021/1/23 19:33
